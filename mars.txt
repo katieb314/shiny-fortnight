@@ -1,6 +1,6 @@
 changes
 changes
-changes
+changes - changing an existing line of text
 
 How many changes can I make?
 
