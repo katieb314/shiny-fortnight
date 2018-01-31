@@ -10,3 +10,5 @@ Brody
 print('some demo R code')
 
 echo('kewl people so far: Brody')
+
+print("our table is cooler than yours")
